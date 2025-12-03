@@ -1,4 +1,4 @@
-## Hi there 👋 I'm just getting started on GitHub
+## Hi there 👋 
 
 <!--
 **jal173-code/jal173-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
